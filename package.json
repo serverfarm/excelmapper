@@ -1,6 +1,6 @@
 {
   "name": "excelmapper",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Map Excel Spreadsheets into a usable AoH structure format.",
   "main": "excelmapper.js",
   "author": "Olli Hollmen",
